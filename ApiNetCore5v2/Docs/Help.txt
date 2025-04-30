@@ -1,0 +1,11 @@
+﻿
+
+
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+
+Microsoft.EntityFrameworkCore.Design
+
+//Tìm chuỗi kết nối
+Visual Studio: View/SQL Server Object Explore
